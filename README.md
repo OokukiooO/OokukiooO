@@ -50,6 +50,6 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  e-mail：fan2487373152@qq.com
-  tel:
+  e-mail：fan2487373152@qq.com<br>
+  tel:+85298244597
   </p>
