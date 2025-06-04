@@ -51,6 +51,6 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  📧 Email: <a href="mailto:fan2487373152@qq.com">fan2487373152@qq.com</a><br>
+  📧 Email: <a href="mailto:fan2487373152@qq.com">fan2487373152@gmail.com</a><br>
   📞 Tel: +85298244597
 </p>
